@@ -15,4 +15,5 @@ This is a gaze backward for me, not a guide forward for you.
 <!-- - Gitee：[i-cant-really-learn](https://gitee.com/i-cant-really-learn/projects)   -->
 
 ## 补充
-关于大学，如果你也想说点什么，可以联系我。  
+关于大学，如果你也想说点什么，可以加入协作。  
+如果想要更多的细节，可以联系我。  
