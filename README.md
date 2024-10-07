@@ -12,8 +12,6 @@ This is a gaze backward for me, not a guide forward for you.
 - Gitee：[i-cant-really-learn/gaze-backward-for-me/issues](https://gitee.com/i-cant-really-learn/gaze-backward-for-me/issues)
 - QQ：183356422
 
-<!-- - Gitee：[i-cant-really-learn](https://gitee.com/i-cant-really-learn/projects)   -->
+关于大学，如果你也想说点什么，可以联系我加入协作。  
+如果想了解更多的细节或者有一些疑问，也可以联系我。  
 
-## 补充
-关于大学，如果你也想说点什么，可以加入协作。  
-如果想要更多的细节，可以联系我。  
