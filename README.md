@@ -5,6 +5,7 @@ This is a gaze backward for me, not a guide forward for you.
 - [保研回忆录](graduate_school_journey.md)
 - [大学相关](university_insights.md)
 - [一些回顾](looking_back.md)
+- **[xyh的保研回忆录](https://github.com/YuchiZuo/gaze-backward-for-me/tree/xyh)**
 
 ## 联系方式
 - 电子邮件：[yuchi.zuo@cumt.edu.cn](mailto:yuchi.zuo@cumt.edu.cn)  
