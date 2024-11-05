@@ -2,8 +2,8 @@
 This is a gaze backward for me, not a guide forward for you.（我非常赞同Zuo God的这番话）
 
 ## 跳转
-- [保研回忆录](https://github.com/YuchiZuo/gaze-backward-for-me/blob/main/%E4%BF%9D%E7%A0%94%E5%9B%9E%E5%BF%86%E5%BD%95.md)
-- [这些年](https://github.com/YuchiZuo/gaze-backward-for-me/blob/main/recall.md)
+- [保研回忆录](https://github.com/YuchiZuo/gaze-backward-for-me/blob/xyh/保研回忆录.md)
+- [这些年](https://github.com/YuchiZuo/gaze-backward-for-me/blob/xyh/recall.md)
 - [关于保研的个人看法](https://github.com/YuchiZuo/gaze-backward-for-me/blob/xyh/Related.md)
 
 ## 联系方式
